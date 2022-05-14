@@ -2,7 +2,7 @@
 title: RCHD
 description: "Red Colombiana de Humanidades Digitales"
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "./" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: ReHDi_Co
 github_username: rchd-repo
 github_repo:  # the GitHub repo name for your project
