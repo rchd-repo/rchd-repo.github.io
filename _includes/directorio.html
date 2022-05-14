@@ -53,8 +53,13 @@
           const a = createA(data['Url'], '', '_blank').parent(td);
           par = a;
         }
-        createSpan(data[columns[i]]).parent(par);
+        const str = clean(data[columns[i]]);
+        createSpan(str).parent(par);
       }
+    }
+
+    function clean(str) {
+      return str.replace(/[*+?^${}|<>[\]\\]|script|timeout|interval|onload|eval|=>|function/gi, '');
     }
   </script>
 </div>
