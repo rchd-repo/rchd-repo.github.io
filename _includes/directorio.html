@@ -1,3 +1,60 @@
+
 <div>
-  <iframe id="directory" class="directory" src="https://rchd-repo.github.io/directorio/"></iframe>
+  <script src="https://d3js.org/d3.v7.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.4.0/p5.min.js"></script>
+  <div class="directory">
+    <div id="main-content"></div>
+  </div>
+  <script>
+    const url = 'https://docs.google.com/spreadsheets/d/1Yy0WYbG1gt2-mVzfKN4pNSIuOAPLWLGLn6fO1j5Pe1c/export?format=csv&gid=0';
+    const columns = ['Nombre','Perfil','Email'];
+
+    async function setup() {
+      noCanvas();
+      createDirectoryBlock(url);
+    }
+
+    async function loadCSV(path) {
+      let data = await d3.csv(path)
+        .then(d => d)
+      data = data.filter(d => d['Autorización'] === 'S');
+      data = data.sort((a, b) => d3.ascending(a['Nombre'], b['Nombre']));
+      return data
+    }
+
+    async function createDirectoryBlock(dataPath) {
+      const dataList = await loadCSV(dataPath);
+      
+      selectAll(".block").map(d=>d.remove());
+      const block = createDiv().class('block').parent('main-content');
+      
+      const directoryTable = createElement('table').class('directory-table').parent(block);
+      createHeader(directoryTable);
+      
+      
+      for (let data of dataList) {
+        createRow(data, directoryTable);
+      }
+    }
+
+    function createHeader(parent) {
+      const header = createElement('tr').class('directory-header').parent(parent);
+      for (let c of columns) {
+        createElement('th',c).parent(header);
+      }
+    }
+
+    function createRow(data, parent) {
+      const row = createElement('tr').class('directory-row').parent(parent);
+      for (let i = 0; i < columns.length; i++) {
+        const td = createElement('td','').parent(row);
+        let par = td;
+        if (data['Url'] && i===0) {
+          const a = createA(data['Url'], '', '_blank').parent(td);
+          par = a;
+        }
+        createSpan(data[columns[i]]).parent(par);
+      }
+    }
+  </script>
 </div>

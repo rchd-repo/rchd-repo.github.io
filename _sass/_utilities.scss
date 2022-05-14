@@ -8,9 +8,8 @@
 }
 
 .directory{
-  width: 100%;
-  border: solid 1px black;
-  height: 700px;
+  width: 83%;
+  font-size: 13px;
 }
 
 .pdf-embed{
@@ -196,6 +195,7 @@
 
 // Link styles for navigation
 .link-primary {
+  color: inherit;
   font-weight: bold;
   text-decoration: none !important;
 
