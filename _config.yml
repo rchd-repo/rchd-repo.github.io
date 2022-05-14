@@ -1,0 +1,16 @@
+
+title: RCHD
+description: "Red Colombiana de Humanidades Digitales"
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://rchd-repo.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: ReHDi_Co
+github_username:  rchd-repo
+github_repo:  # the GitHub repo name for your project
+
+# Optional social link, you can choose from the following options:
+# twitter (default), instagram, medium, or dribbble
+social_link: twitter
+social_username: ReHDi_Co
+
+# Build settings
+remote_theme: broccolini/swiss
