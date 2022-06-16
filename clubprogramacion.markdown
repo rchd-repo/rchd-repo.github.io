@@ -10,3 +10,13 @@ El Club de Programación de la Red Colombiana de Humanidades Digitales es un esp
 
 Todos los miembros activos de la Red Colombiana de Humanidades digitales pueden inscribirse al Club. Para más información pueden contactar a su coordinador: Sergio Rodríguez Gómez al correo ssergiorodriguezz@gmail.com.
 
+## Muestras del club de programación
+
+### ¡Hola mundo! — 2022
+![muestra hola mundo](/assets/imgs/club-prog-2022.png){: .adapt-img}
+
+[Ir a la muestra](../club-prog-2022)
+
+Charla sobre la muestra:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pIUuHOUZgvo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen> </iframe>
