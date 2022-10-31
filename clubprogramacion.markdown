@@ -12,7 +12,20 @@ Todos los miembros activos de la Red Colombiana de Humanidades digitales pueden 
 
 ## Muestras del club de programación
 
-### ¡Hola mundo! — 2022
+--------------------------------------------------------------
+
+### Colisiones: jugando en 8bits — 2022 - 2
+![muestra hola mundo](/assets/imgs/club-prog-2022-2.png){: .adapt-img}
+
+[Ir a la muestra](../club-prog-2022-juegos)
+
+Charla sobre la muestra:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rjRWuTK0i74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen> </iframe>
+
+--------------------------------------------------------------
+
+### ¡Hola mundo! — 2022 - 1
 ![muestra hola mundo](/assets/imgs/club-prog-2022.png){: .adapt-img}
 
 [Ir a la muestra](../club-prog-2022)
