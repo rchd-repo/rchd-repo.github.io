@@ -12,24 +12,32 @@ Todos los miembros activos de la Red Colombiana de Humanidades digitales pueden 
 
 ## Muestras del club de programación
 
---------------------------------------------------------------
+---
 
-### Colisiones: jugando en 8bits — 2022 - 2
-![muestra hola mundo](/assets/imgs/club-prog-2022-2.png){: .adapt-img}
+<div class="two-col">
+  <div>
+    <h3>Colisiones: jugando en 8bits</h3>
+    <span>2022-2</span>
+    <img alt="muestra colisiones" src="/assets/imgs/club-prog-2022-2.png"/>
+    <a href="../club-prog-2022-juegos" target="_blank">Visitar la muestra</a>
+  </div>
+  <div>
+    <span>Charla sobre la muestra:</span>
+    <iframe width="500" height="315" src="https://www.youtube.com/embed/rjRWuTK0i74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen> </iframe>
+  </div>
+</div>
 
-[Ir a la muestra](../club-prog-2022-juegos)
+---
 
-Charla sobre la muestra:
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rjRWuTK0i74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen> </iframe>
-
---------------------------------------------------------------
-
-### ¡Hola mundo! — 2022 - 1
-![muestra hola mundo](/assets/imgs/club-prog-2022.png){: .adapt-img}
-
-[Ir a la muestra](../club-prog-2022)
-
-Charla sobre la muestra:
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pIUuHOUZgvo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen> </iframe>
+<div class="two-col">
+  <div>
+    <h3>¡Hola mundo!</h3>
+    <span>2022-1</span>
+    <img alt="muestra hola mundo" src="/assets/imgs/club-prog-2022.png"/>
+    <a href="../club-prog-2022" target="_blank">Visitar la muestra</a>
+  </div>
+  <div>
+    <span>Charla sobre la muestra:</span>
+    <iframe width="500" height="315" src="https://www.youtube.com/embed/pIUuHOUZgvo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen> </iframe>
+  </div>
+</div>
