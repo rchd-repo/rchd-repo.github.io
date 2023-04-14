@@ -2,7 +2,7 @@
 layout: page
 title: Tostada HD
 permalink: /tostada/
-order: 4
+order: 6
 ---
 
 La metodología de una Tostada HD es similar a la de una "desconferencia" en la que dos participantes moderan la discusión basada en una pregunta compleja relacionada con el amplio ámbito de las humanidades digitales (p. ej. ¿Cómo se hace un proyecto en Humanidades Digitales?). La discusión se desarrolla de manera orgánica por cerca de hora y media, tras la cual, lejos de definir "una" estrategia a seguir, se rescatan los aportes que pueden apoyar de una u otra manera proyectos particulares.
