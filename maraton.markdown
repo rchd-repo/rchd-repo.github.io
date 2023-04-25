@@ -11,7 +11,7 @@ order: 4
 
 En septiembre 14 y 15 de 2023, en colaboración con el Exploratorio Humanidades Digitales de la Universidad de Antioquia, se realizará la tercera edición de la Maratón HD en modalidad presencial.
 
-La Maratón es un evento en el que personas y agrupaciones que desarrollan proyectos relacionados con las humanidades digitales pueden presentar sus avances, métodos, resultados, indagaciones, y reflexiones en tres modalidades distintas: presentaciones de 5 minutos y 15 diapositivas, presentaciones de 15 minutos y 5 diapostivas, o talleres de 2 horas. También es un espacio para dialogar y compartir con la comunidad interesada en las humanidades digitales.
+La Maratón es un evento en el que personas y agrupaciones que desarrollan proyectos relacionados con las humanidades digitales pueden presentar sus avances, métodos, resultados, indagaciones, y reflexiones en tres modalidades distintas: presentaciones de 5 minutos y 15 diapositivas, presentaciones de 15 minutos y 5 diapositivas, o talleres de 2 horas. También es un espacio para dialogar y compartir con la comunidad interesada en las humanidades digitales.
 
 Las inscripciones estarán abiertas hasta el 10 de mayo para ponentes, talleristas y asistentes.
 
