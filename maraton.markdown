@@ -15,7 +15,7 @@ La Maratón es un evento en el que personas y agrupaciones que desarrollan proye
 
 Las inscripciones estarán abiertas hasta el 10 de mayo para ponentes, talleristas y asistentes.
 
-[IR AL FORMULARIO DE INSCRIPCIÓN](https://t.co/SnHNOzO5FA)
+[IR AL FORMULARIO DE INSCRIPCIÓN](https://forms.gle/MFeX99cnxkRCEk9YA)
 
 [INFORMACIÓN SOBRE MEMBRESÍAS](https://rchd.com.co/membresias/)
 
