@@ -13,11 +13,15 @@ En septiembre 14 y 15 de 2023, en colaboración con el Exploratorio Humanidades 
 
 La Maratón es un evento en el que personas y agrupaciones que desarrollan proyectos relacionados con las humanidades digitales pueden presentar sus avances, métodos, resultados, indagaciones, y reflexiones en tres modalidades distintas: presentaciones de 5 minutos y 15 diapositivas, presentaciones de 15 minutos y 5 diapositivas, o talleres de 2 horas. También es un espacio para dialogar y compartir con la comunidad interesada en las humanidades digitales.
 
-Las inscripciones estarán abiertas hasta el 10 de mayo para ponentes, talleristas y asistentes.
+Las inscripciones estarán abiertas hasta el 10 de mayo para ponentes, talleristas y asistentes. Las inscripciones para asistentes estarán abiertas hasta que termine el evento.
 
 [IR AL FORMULARIO DE INSCRIPCIÓN](https://forms.gle/MFeX99cnxkRCEk9YA)
 
-[INFORMACIÓN SOBRE MEMBRESÍAS](https://rchd.com.co/membresias/)
+<object data="assets/maraton/Cronograma Maratón HD 2023.pdf" type="application/pdf" width="700px" height="700px">
+  <embed src="assets/maraton/Cronograma Maratón HD 2023.pdf">
+    <p>Este explorador no puede mostrar pdfs: <a href="assets/maraton/Cronograma Maratón HD 2023.pdf">Descargar el archivo del cronograma</a>.</p>
+  </embed>
+</object>
 
 ## Ediciones pasadas
 
