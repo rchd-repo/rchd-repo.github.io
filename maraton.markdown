@@ -12,6 +12,7 @@ La Maratón es un evento en el que personas y agrupaciones que desarrollan proye
 ### 2023
 
 ![maratón 2023](/assets/maraton/MaratonHD2023.jpeg){: .adapt-img}
+
 <a href="https://rchd.com.co/assets/maraton/Cronograma_Maraton_HD_2023.pdf">Programa de esta edición</a>
 
 ### 2020
