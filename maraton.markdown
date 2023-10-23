@@ -5,28 +5,14 @@ permalink: /maraton/
 order: 4
 ---
 
-## Maratón 2023
-
-![maratón 2023](/assets/maraton/MaratonHD2023.jpeg){: .adapt-img}
-
-En septiembre 14 y 15 de 2023, en colaboración con el Exploratorio Humanidades Digitales de la Universidad de Antioquia, se realizará la tercera edición de la Maratón HD en modalidad presencial.
-
-La Maratón es un evento en el que personas y agrupaciones que desarrollan proyectos relacionados con las humanidades digitales pueden presentar sus avances, métodos, resultados, indagaciones, y reflexiones en tres modalidades distintas: presentaciones de 5 minutos y 15 diapositivas, presentaciones de 15 minutos y 5 diapositivas, o talleres de 2 horas. También es un espacio para dialogar y compartir con la comunidad interesada en las humanidades digitales.
-
-Las inscripciones estarán abiertas hasta el 10 de mayo para ponentes, talleristas y asistentes. Las inscripciones para asistentes estarán abiertas hasta que termine el evento.
-
-[IR AL FORMULARIO DE INSCRIPCIÓN](https://forms.gle/MFeX99cnxkRCEk9YA)
-
-
-### Cronograma Maratón 2023
-
-<object data="https://rchd.com.co/assets/maraton/Cronograma_Maraton_HD_2023.pdf" type="application/pdf" width="100%" height="700px">
-  <embed src="https://rchd.com.co/assets/maraton/Cronograma_Maraton_HD_2023.pdf">
-    <p>Este explorador no puede mostrar pdfs: <a href="https://rchd.com.co/assets/maraton/Cronograma_Maraton_HD_2023.pdf">Descargar el archivo del cronograma</a>.</p>
-  </embed>
-</object>
+La Maratón es un evento en el que personas y agrupaciones que desarrollan proyectos relacionados con las humanidades digitales pueden presentar sus avances, métodos, resultados, indagaciones, y reflexiones en presentaciones y talleres. También es un espacio para dialogar y compartir con la comunidad interesada en las humanidades digitales y establecer una red de afinidades comunes.
 
 ## Ediciones pasadas
+
+### 2023
+
+![maratón 2023](/assets/maraton/MaratonHD2023.jpeg){: .adapt-img}
+<a href="https://rchd.com.co/assets/maraton/Cronograma_Maraton_HD_2023.pdf">Programa de esta edición</a>
 
 ### 2020
 

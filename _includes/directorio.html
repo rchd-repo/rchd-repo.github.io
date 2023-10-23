@@ -11,7 +11,8 @@
 
     async function setup() {
       noCanvas();
-      createDirectoryBlock(url);
+      const data = await loadCSV(url);
+      createDirectoryBlock(data);
     }
 
     async function loadCSV(path) {
@@ -22,9 +23,7 @@
       return data
     }
 
-    async function createDirectoryBlock(dataPath) {
-      const dataList = await loadCSV(dataPath);
-      
+    async function createDirectoryBlock(data) {
       selectAll(".block").map(d=>d.remove());
       const block = createDiv().class('block').parent('main-content');
       
@@ -32,8 +31,8 @@
       createHeader(directoryTable);
       
       
-      for (let data of dataList) {
-        createRow(data, directoryTable);
+      for (let d of data) {
+        createRow(d, directoryTable);
       }
     }
 
@@ -59,7 +58,7 @@
     }
 
     function clean(str) {
-      return str.replace(/[*+?^${}|<>[\]\\]|script|timeout|interval|onload|eval|=>|function/gi, '');
+      return str.replace(/[*+?^${}|<>[\]\\]|script|timeout|interval|onload|eval|=>|function/gi, '').replace("@","[at]")
     }
   </script>
 </div>
