@@ -1,0 +1,14 @@
+---
+layout: post
+title: "El proyecto ARCA y el Ebook «Cultura Visual en América Colonial», entrevista a Jaime Borja"
+date: 2020-02-16 12:00:00 -0500
+categories: Entrevistas
+tags: ["colecciones", "historia del arte", "humanidades digitales", "visualización de datos"]
+author: ["Jaime Borja"]
+---
+
+![Pantallazo de un buscador de archivos de prensa](/assets/blog/arca.jpg)
+
+En esta entrada les compartimos una entrevista al historiador Jaime Borja, quien nos cuenta acerca de dos proyectos complementarios: la base de datos ARCA y el libro digital «Cultura Visual en América Colonial». Además, en la entrevista reflexiona acerca de los valores añadidos de los libros digitales, los datos masivos, la publicación web y también acerca de las dificultades de llevar a cabo un proyecto de humanidades digitales:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0DuVUer-H-E?si=PD8tz9G_ZOxzbBWp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>

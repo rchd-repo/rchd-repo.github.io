@@ -1,0 +1,20 @@
+---
+layout: post
+title: "DH2018 Día 1"
+date: 2018-06-27 12:00:00 -0500
+categories: Análisis
+tags: ["eventos académicos", "humanidades digitales", "DH2018"]
+author: ["RCHD"]
+---
+
+![Foto de una presentación de diapositivas proyectada que muestra la ilustración de dos personas, una con un computador y otra con un celular, en un estilo que se asemaja al arte Azteca](/assets/blog/dh2018.jpg)
+
+La RCHD está presente en el congreso de Humanidades Digitales que se está realizando en Ciudad de México entre el 26 y el 29 de junio de 2018. Sin embargo los días lunes 25 y martes 26 se dieron algunos talleres para el público interesado. En esta entrada contaremos algunas experiencias del primer día del congreso y los talleres.
+
+En el taller de pre-conferencia de #DH2018 David Joseph Wrisley (@DJWrisley) y Stefan Jänicke, presentaron Iteal (Interactive text edition alignment). Esta herramienta sirve para hacer alineaciones semi-automatizada de corpus de textos de poesía. Sirve para comparar ediciones de un mismo texto literario y visualizar variaciones entre ediciones, diferencias de estructura y ortografía. La propuesta es pensar la visualización como proceso especulativo, es decir no como un resultado acabado, sino como una metodología para explorar el potencial de la alineación de textos poéticos.
+
+Uno de los puntos álgidos de la inauguración fue la intervención de Isabel Galina (Presidenta de la RedHD), quién hizo énfasis en la construcción de puentes, y no muros, en las humanidades digitales. Se destaca también la nominación de María José Afanador al premio Paul Frontier, con su ponencia sobre Programming Historian en español.
+
+La conferencia magistral que inauguró el congreso, «Tramando la palabra» a cargo de Janet Chávez Santiago (@JanChvzSanti), tuvo un desarrollo qué jugó con las palabras de su título. El acto de tramar une a las culturas a través del lenguaje tejido. El proyecto de activismo de lenguas indígenas consiste en un diccionario que rescata palabras del Zacateco. Muchas de las actividades desarrolladas por Janet van encaminadas hacia la visibilización de lenguas indígenas de México. Pero también rescata la importancia del tejido, a través de los telares, como un lenguaje casi universal. Concluye Chávez: «Que la trama y la urdimbre digital sean el puente que nos acerquen y nos permitan compartir nuestros conocimientos. Que esté primer acercamiento con México sea el puente de una colaboración de aprendizaje y convivencia en el espacio virtual como un presente que evoluciona a cada segundo».
+
+Esperen más reseñas y noticias sobre el #DH2018 en el [Twitter de la RCHD](https://twitter.com/ReHDi_Co?s=09) y resúmenes de los días en el BLOGHD

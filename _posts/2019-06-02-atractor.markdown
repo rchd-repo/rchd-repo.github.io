@@ -1,0 +1,45 @@
+---
+layout: post
+title: "Ficciones científicas más allá de la luna. Una entrevista a Juan Cortés del grupo Atractor"
+date: 2019-06-02 12:00:00 -0500
+categories: Entrevista
+tags: ["artes electrónicas", "humanidades digitales"]
+author: ["Sergio Rodríguez Gómez", "Juan Cortés"]
+---
+
+En 1963, el meteorólogo *Edward Lorenz* se ingenió un sistema de ecuaciones que, de forma muy simplificada, intentaba simular los cambios dinámicos complejos a los que tiende el clima. De la gráfica que representa su sistema surgió lo que hoy se conoce como el [Atractor de Lorenz](https://es.wikipedia.org/wiki/Atractor_de_Lorenz), una extraña figura similar a un ocho o a una mariposa que se ha convertido en una de las imágenes paradigmáticas de las ciencias de la complejidad. De esta historia toma su nombre *el grupo Atractor, basado en Bogotá, conformado por Juan Cortés, Alejandro Villegas, Juan José López, Juan Camilo Quiñones, y otros colaboradores, como Santiago Arcila, quienes han desarrollado varios proyectos interdisciplinarios de investigación y pedagogía que mezclan el arte y la ciencia*.
+
+Esta es una entrevista a *Juan Cortés*, uno de los integrantes del grupo ([aquí está su portafolio](https://www.juancortes.net/)). Él nos cuenta cómo sus obras y sus proyectos creativos indagan sobre los entrecruzamientos y problemas que tocan el arte, la ciencia, la tecnología, y las sociedades contemporáneas.
+
+En un proceso creativo que, Juan afirma, “está lleno de encuentros intempestivos, cambios y desvíos”, pero que, al final, es la forma en la que se constituye una red de cooperación similar a la de la ciencia, el grupo Atractor ha trabajado en varios proyectos: “[ISEA 2017](http://www.isea2017.disenovisual.com/), donde presentamos un concierto producido por *Asher Remy-Toledo* sobre la noción de enjambre y las abejas; [Fábulas Sobre el Caos](https://arte.uniandes.edu.co/eventos/exposicion-fabulas-sobre-el-caos/), curada por *Andrés Burbano*, una exhibición compuesta por 8 instalaciones que hicimos en el *Monumento a los Héroes, en Bogotá*, en 2018 y trataba sobre los algoritmos y la noción de caos en la tecnología; y [Quantica/Broken Symmetries](https://www.fact.co.uk/event/broken-symmetries), una exhibición sobre física fundamental y su relación con la cultura y el arte contemporáneo curada por *Mónica Bello y José-Carlos Mariátegui*”.
+
+“*Debemos ver la ciencia y la tecnología como un fenómeno sociológico*”, dice Juan en la conversación que mantuvimos. “Hace falta ver hasta qué punto las condiciones sociales influyen en la ciencia: los cruces entre narrativas y textos científicos, los efectos del capitalismo desbordado en la forma y los temas que se investigan, la manera en la que se construyen las máquinas y su relación con el trabajo, o cómo se proponen las nuevas inteligencias artificiales en relación a la emulación de lo emotivo y lo sensible. Hay una frase en particular que he tenido cerca estos años: *al otro lado de cualquier instrumento científico —telescopio, microscopio, detector, scanner, etc.— siempre está el ojo humano*”.
+
+![Una opersona mirando a través de una obra de arte que se asemeja a un aparato científico](/assets/blog/supralunar1.png)
+
+La obra Supralunar — imagen tomada de juancortes.net{: .centered}
+
+Es ahí, frente a esta reflexión, que tiene cabida el arte y la creatividad. Podemos cuestionarnos los aspectos sociales de la ciencia si dejamos de dar por sentado su existencia y su funcionamiento, y una de las maneras de lograrlo es subvirtiendo los usos convencionales de la tecnología. Juan afirma que “*hacen falta reflexiones, desusos y subversiones de la tecnología a través de los procesos creativos*. A mí me interesa el arte que se relaciona con la tecnología cuando va en contra de los manuales que pretenden regir sobre nuestra relación con las tecnologías contemporáneas —no abra, no modifique, no reemplace, etc.—. *Quiero pensar que las prácticas creativas relacionadas con la tecnología —y sobretodo asociadas a procesos pedagógicos— plantean un espacio de reflexión y una posible alteridad  frente al consumo y la homogeneización de nuestra relación con las máquinas*”.
+
+Un proyecto coproducido entre Atractor, el filósofo *Santiago Arcila* y *Hyphen-Hub*, ganó una convocatoria para participar en ***Arts at CERN***, “el departamento de arte del gran laboratorio de física fundamental europeo”. Juan nos cuenta: “el premio implicaba una residencia y la posibilidad de trabajar con científicos un proyecto sobre la materia oscura. De esa colaboración nació ***Supralunar*, una escultura sobre la materia oscura y su papel en los procesos de morfogénesis de las galaxias. Lejos de plantear una representación “fiel” a los datos recolectados por científicos, la obra se refiere a las paradojas al tratar de entender —interpretar— fenómenos tan complejos como la materia oscura a través de las máquinas. La obra parte de principios mecánicos simples para re-crear procesos de formación infinitamente complejos. El término Supralunar fue acuñado por Aristóteles para hablar sobre lo que está más allá de la luna, lejos de nuestra comprensión y obedeciendo a funcionamientos más allá del poder explicativo de la física; diríamos, funcionamientos metafísicos: según esto, se nos presenta la materia oscura como agente escultor de la galaxias**”.
+
+Hoy, la materia oscura es un elemento misterioso para la física, los humanos aún nos encontramos en el proceso de su descubrimiento (así sea el descubrimiento de su inexistencia). Como lo muestra la obra/máquina Supralunar, *la ciencia también necesita de ficciones para crear conocimiento e incluso para representar lo desconocido*. Sobre esto, Juan tiene un arsenal de ejemplos y referentes que muestran cómo la ciencia se alimenta de mitos culturales para ganar significado: por ejemplo, la novela *The Bug Variations*, que cuenta la historia de un científico, **Stuart Ressler**, quien se inspira en las Variaciones Golberg de Bach para producir su teoría genética; o las afirmaciones de **Simon Schaffer**, quien dice que la física de Newton es “angelomórfica”, porque se basa en las pinturas y representaciones de los ángeles. Finalmente, Juan cita a **Jacques Rancière**, quien afirma en su libro Tiempos Modernos que “La ficción se pone en marcha cada vez que debe producirse un sentido de realidad”.
+
+
+![Una obra de arte que se asemeja a una galaxia, una espiral con forma de ese de colores blancos y rojos](/assets/blog/supralunar1.png)
+
+La obra Supralunar — imagen tomada de juancortes.net{: .centered}
+
+*Una función del arte en este contexto es justamente la de revelar esas ficciones o la de aportar ficciones nuevas a la representación científica*. En una ponencia escrita en el marco de la exposición “[Quàntica](http://www.cccb.org/es/multimedia/videos/cuantica-cientificos-y-artistas-a-debate/231316)”, Juan afirma que “una de las razones por las que decidí ser artista es para entender el poder de un objeto —como el mapa— para representar y evocar toda la complejidad de un fenómeno físico”. Y a lo largo de su obra, él y el grupo Atractor han descubierto que ese poder de representación debe ser visto críticamente. En la misma ponencia, que escribió en colaboración con Santiago Arcila, afirma: “aquí la nave supralunar puede nutrirse de las relaciones entre el arte y la ciencia. Relaciones que pueden operar sobre una segunda materia oscura, ya no astrofísica, sino psíquica y social. Una materia oscura que actúa sobre nuestras maneras de pensar, sentir y vivir, con miras a subvertir los usos conformistas del saber científico, tecnológico y artístico, para abrir formas alternativas a nuestra realidad”.
+
+Finalmente, aquí va una lista de lecturas que nos recomienda Juan, y que él siempre lleva consigo, para seguir explorando los temas de esta entrevista:
+
+Lecciones de la sociología de las ciencias – Bruno Latour – 1993
+Tiempos Modernos – Jacques Ranciere – 2008
+Los orígenes de la geometría – Michel Serres – 1993
+Pulgarcita – Michel Serres – 2013
+Metafísica de la Felicidad Real – Alain Badiou – 2017
+De las bacterias a Bach – Daniel Dennett – 2016
+El Crepúsculo de las Máquinas – John Zerzan – 2016
+
+— Entrevista por Sergio Rodríguez Gómez

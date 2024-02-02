@@ -1,0 +1,16 @@
+---
+layout: post
+title: "Sobre el diccionario Sáliba-Español del Instituto Caro y Cuervo, una entrevista a Diego Fernando Gómez"
+date: 2020-03-27 12:00:00 -0500
+categories: Entrevista
+tags: ["programación", "estudios de software", "humanidades digitales", "libro"]
+author: ["RCHD"]
+---
+
+![Tabla que describe las vovcales en Sáliba y algunas categorías lingüísticas. Es un pantallazo de la interfaz del diccionario Sáliba-Español](/assets/blog/saliba.jpg)
+
+En esta entrada presentamos una entrevista al antropólogo y lingüísta Diego Fernando Gómez acerca del diccionario digital Sáliba-Español desarrollado por el Instituto Caro y Cuervo. Aquí, el entrevistado nos cuenta acerca de los orígenes del proyecto, su alcance y hace una demostración del sitio web.
+
+El diccionario se puede consultar en [https://www.saliba.caroycuervo.gov.co](https://www.saliba.caroycuervo.gov.co)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3DRfu9E5S7w?si=QmCz1LO3e1ithT7x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
