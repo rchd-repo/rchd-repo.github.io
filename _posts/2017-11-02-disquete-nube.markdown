@@ -17,7 +17,7 @@ Dentro del Laboratorio de Cartografía Histórica e Historia Digital ([LabCaHID]
 
 Estamos obligados a pensar que las investigaciones históricas deben tener un tinte digital. Y por qué no, pensar que la Historia Digital sea una forma de hacer historia. Se trata, entonces, de atender al llamado que Dan Cohen y Roy Rosenzweig hacían en la lejana década del 2000: “[The most important weapon for building the digital future we want is to take an active hand in creating digital history in the present](http://chnm.gmu.edu/digitalhistory/introduction/)”. Esto es, ponerse manos a la obra para construir la historia y las humanidades digitales desde hoy. Pero sobretodo, de asumir una actitud crítica frente al cambio tecnológico y sus posibilidades. Esto, porque no nacimos en el mundo digital actual; sino que  hemos presenciado el cambio, con ojos de niños y adolescentes. Podemos situarnos como un punto de transición; aquel espacio que nos permite evaluar ambos mundos: el del disquete y el de la nube.
 
-[Elvis Andrés Rojas Rodríguez](http://unal.academia.edu/ElvisAndres%C2%BARojasRodriguez) y  [José Nicolás Jaramillo Liévano](http://unal.academia.edu/JoseJaramillo)
+[Elvis Andrés Rojas Rodríguez](http://unal.academia.edu/ElvisAndres%C2%BARojasRodriguez) y [José Nicolás Jaramillo Liévano](http://unal.academia.edu/JoseJaramillo)
 
 Departamento de Historia – Universidad Nacional de Colombia
 
