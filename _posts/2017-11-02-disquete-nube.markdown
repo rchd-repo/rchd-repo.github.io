@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Del Disquete a la Nube> nuestra generación de transición tecnológica"
+title: "Del Disquete a la Nube: nuestra generación de transición tecnológica"
 date: 2017-11-02 12:00:00 -0500
 categories: Análisis
 tags: ["cultura digital", "humanidades digitales", "transición tecnológica"]
