@@ -17,7 +17,8 @@ Durante el taller *Collections as Data Jam*, con el grupo con el que colaboré h
 
 ![Pantallazo de un buscador de archivos de prensa](/assets/blog/chronicling.jpg)
 
-Sitio de Chronicling America, búsqueda por periódicos digitalizados en español {: .centered}
+Sitio de Chronicling America, búsqueda por periódicos digitalizados en español
+{: .centered}
 
 El conjunto de  periódicos digitalizados de Chronicling America es uno de los repositorios digitales de la Biblioteca del Congreso que fue diseñado para permitir que los usuarios utilicen sus datos de varias formas. Por ejemplo, los protocolos web del repositorio no restringen la descarga de los datos de la colección y con la [API](https://es.wikipedia.org/wiki/Interfaz_de_programaci%C3%B3n_de_aplicaciones) (Interfaz de Programación de Aplicaciones) se puede acceder y explorar los datos. El repositorio incluye documentación sobre cómo utilizar la API, no solamente para hacer búsquedas sino también para probar técnicas de indexación del contenido de periódicos que han pasado por un proceso de reconocimiento óptico de caracteres (OCR). 
 
@@ -25,7 +26,8 @@ En este ejercicio, descargamos los registros de periódicos publicados en españ
 
 ![Pantallazo de la interfaz de una línea de tiempo](/assets/blog/timemapper.jpg)
 
-Visualización de la colección de periódicos en español en TimeMapper {: .centered}
+Visualización de la colección de periódicos en español en TimeMapper
+{: .centered}
 
 En el proceso nos dimos cuenta que **aun cuando los repositorios digitales permitan la descarga de datos sobre sus colecciones, siempre es necesario hacer un proceso de revisión y limpieza de datos**. En este caso, muchos registros no incluyen la fecha inicial de publicación del periódico; la descripción de los temas de los periódicos incluían nomenclaturas que no eran útiles para los objetivos de la visualización; y algunos datos de georreferenciación contenían errores. Para limpiar datos se puede trabajar con [OpenRefine](http://openrefine.org/). Una vez corregidos los datos, la visualización de la colección de periódicos permite navegar el archivo de formas que en físico sería imposible. Por ejemplo, en la visualización se podrían identificar patrones en la publicación de periódicos en español en Estados Unidos a través del tiempo. Este ejercicio de visualización de una colección de fuentes a partir de sus datos puede apoyar el proceso de formulación de nuevas preguntas de investigación sobre el pasado. **El potencial de trabajo colaborativo en el marco de las humanidades digitales puede además ayudar a enriquecer los metadatos de las colecciones con categorías temáticas y/o conceptuales. Esto permitiría expandir las posibilidades de búsqueda y de interrogar conjuntos documentales extensos, es decir, acceder al récord cultural de la humanidades de formas antes impensables**.     
 

@@ -23,13 +23,15 @@ Luego tenemos que ver que un archivo digital es en sí mismo una publicación ad
 
 ![Pantallazo de la colección digital de las cartas de Vincent Van Gogh a su hermano Teo. Se ve una reproducción facsimilar de la carta y una versión transcrita](/assets/blog/vangoghletters.png)
 
-Imagen 1. Cartas de Van Gogh a su hermano Theo en vangoghletters.org. La vista de cada carta se puede personalizar en pestañas para las necesidades de cada usuario. En la imagen: facsímil, traducción y notas{: .centered}
+Imagen 1. Cartas de Van Gogh a su hermano Theo en vangoghletters.org. La vista de cada carta se puede personalizar en pestañas para las necesidades de cada usuario. En la imagen: facsímil, traducción y notas
+{: .centered}
 
 Finalmente un archivo digital, si quiere ser verdaderamente abierto y democrático, debe poder encontrar su camino hacia las personas, y no solo esperar a que las personas encuentren el camino hacia él. Debe interactuar con los algoritmos de los motores de búsqueda, con las comunidades online, con las redes sociales y las redes de personas que las habitan. La ventana debe pensarse desde las colectividades que le van a dar uso, y debe hacerse esparcible y reproducible. Debe ser, en suma, un mensaje en una botella que llegue efectivamente a las manos de un destinatario, sea alguien que quería encontrar el mensaje o alguien que se tropezó con él por feliz casualidad.
 
 ![Montaje con varios pantallazos de las interfaces de colecciones digitales en internet](/assets/blog/cofreventana.jpg)
 
-Imagen 2. Europeana.eu pone especial énfasis en hacer los contenidos de sus archivos atractivos, relevantes y dinámicos para audiencias no académicas. En la imagen, campañas de Facebook y su plugin para ver una imagen del archivo cada vez que se abre una pestaña del navegador {: .centered}
+Imagen 2. Europeana.eu pone especial énfasis en hacer los contenidos de sus archivos atractivos, relevantes y dinámicos para audiencias no académicas. En la imagen, campañas de Facebook y su plugin para ver una imagen del archivo cada vez que se abre una pestaña del navegador
+{: .centered}
 
 *El cofre y la ventana no tienen porque ser rivales, ni tiene porque ser uno el reemplazo del otro. Son más bien un sistema orgánico en el que sus partes se complementan, cada una con diferentes habilidades, flaquezas y oportunidades*. Cuando el sistema funciona, es una manera de acercar a las personas a la información y darles la oportunidad y las herramientas para transformarla en conocimiento. Ese objetivo debe ser central en el desarrollo e implementación de proyectos de Humanidades Digitales.
 
