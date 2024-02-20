@@ -2,7 +2,7 @@
 layout: post
 title: "Ficciones científicas más allá de la luna. Una entrevista a Juan Cortés del grupo Atractor"
 date: 2019-06-02 12:00:00 -0500
-categories: Entrevista
+categories: Entrevistas
 tags: ["artes electrónicas", "humanidades digitales"]
 author: ["Sergio Rodríguez Gómez", "Juan Cortés"]
 ---

@@ -2,7 +2,7 @@
 layout: post
 title: "Sobre el diccionario Sáliba-Español del Instituto Caro y Cuervo, una entrevista a Diego Fernando Gómez"
 date: 2020-03-27 12:00:00 -0500
-categories: Entrevista
+categories: Entrevistas
 tags: ["programación", "estudios de software", "humanidades digitales", "libro"]
 author: ["RCHD"]
 ---

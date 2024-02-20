@@ -2,7 +2,7 @@
 layout: post
 title: "DH2018 Día 1"
 date: 2018-06-27 12:00:00 -0500
-categories: Análisis
+categories: Eventos
 tags: ["eventos académicos", "humanidades digitales", "DH2018"]
 author: ["RCHD"]
 ---

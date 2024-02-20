@@ -8,18 +8,19 @@
     <ul class="list-reset mt-lg-1 mb-2 mb-lg-1">
       {% assign sorted_pages = site.pages | sort:"order" %}
       {% for my_page in sorted_pages %}
-        {% if my_page.title %}
+        {% if my_page.title and unless my_page.hide %}
         <li class="inline-block">
           <a class="align-middle link-primary mr-2 mr-lg-0 ml-lg-2" href="{{ my_page.url | prepend: site.baseurl }}">
             {{ my_page.title }}
           </a>
+          <p>Por {{ my_page.author | join: ", " }}</p>
         </li>
         {% endif %}
       {% endfor %}
 
-      <li class="inline-block">
+      <!-- <li class="inline-block">
         <a class="align-middle link-primary mr-2 mr-lg-0 ml-lg-2" href="https://redcolhdblog.wordpress.com/">Blog</a>
-      </li>
+      </li> -->
     </ul>
   </div>
 </header>
