@@ -1,5 +1,5 @@
 ---
-layout: bloglist
+layout: page
 title: Sobre el blog
 permalink: /blog-acerca/
 hide: true

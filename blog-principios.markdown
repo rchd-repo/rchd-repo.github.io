@@ -1,5 +1,5 @@
 ---
-layout: bloglist
+layout: page
 title: Principios editoriales del blog RCHD
 permalink: /blog-principios/
 hide: true
