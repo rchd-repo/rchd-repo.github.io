@@ -25,12 +25,7 @@ La guía que se propone aquí ha sido construida tomando en cuenta las referenci
 
 Para redactar una reseña de un podcast o un episodio, valen estas recomendaciones generales:
 1. No escuchar solo 1 episodio, sino todos, o varios. Señalar en la reseña cuáles son los episodios sobre los cuales está basada.
-2. Citar correctamente: por ejemplo:
-
-**Un episodio: Autor, “#no.: Título del episodio”, fecha de su publicación online, Título del podcast, producido por Autor, podcast, formato, duración, URL**
-
-**Un podcast entero: Autores, Título del podcast, podcast, formato, fecha si la hay, URL**
-
+2. Citar correctamente: por ejemplo: **Un episodio**: *Autor, “#no.: Título del episodio”, fecha de su publicación online, Título del podcast, producido por Autor, podcast, formato, duración, URL* | **Un podcast entero**: *Autores, Título del podcast, podcast, formato, fecha si la hay, URL*
 3. Contextualizar el podcast en el marco de la historiografía relevante para el contenido del podcast.
 
 ## Tipos
@@ -50,7 +45,7 @@ Una reseña no es un resumen, pero sí debe presentar de forma sintética el pod
 
 En particular, una reseña académica de un podcast evalúa esta producción sonora en su capacidad de aportar al conocimiento tanto disciplinar como público de la Historia. Por ello responde a <u>preocupaciones distintas</u>, pero complementarias, que se pueden declinar en preguntas que una reseña puede considerar responder:
 
-1. Contribución al conocimiento histórico
+### 1. Contribución al conocimiento histórico
 
 **¿Cómo o cuánto contribuye el podcast o episodio a la historiografía sobre el tema o al conocimiento especializado sobre el mismo?** Por ejemplo: ¿resume de manera crítica algunos de los argumentos de la <u>historiografía</u>, o presenta hallazgos novedosos, o identifica vacíos en el estado del conocimiento histórico, entre otras posibles contribuciones?
 
@@ -60,7 +55,7 @@ La reseña puede también tener en cuenta si el podcast o el episodio referencia
 
 Igualmente, la reseña puede comentar acerca del uso o referencia que los autores del podcast o del episodio hacen de <u>fuentes primarias</u>, bien sea citándolas o insertándolas (en el caso de fuentes audio) en las notas textuales al final.
 
-2. Historia pública / comunicación de contenidos históricos
+### 2. Historia pública / comunicación de contenidos históricos
    
 **¿Logra el podcast ser eficaz cómo producto de comunicación histórica masiva, o medio de historia pública?** ¿Cómo? Se pueden comentar aspectos como:
 
@@ -70,19 +65,20 @@ Igualmente, la reseña puede comentar acerca del uso o referencia que los autore
 - La visibilidad en los motores de búsqueda de podcast
 - Uso de lenguaje: ¿utiliza un lenguaje comprensible para el público general o usa lenguaje especializado? ¿Qué importancia tiene esta escogencia en la eficacia del podcast con respecto a su objetivo declarado?
 
-3. Autoría
+### 3. Autoría
 
 La autoría es un tema importante a reseñar porque, a diferencia de un libro o un artículo, puede no ser explícito quién debemos considerar como “autor”. Pueden ser útiles las preguntas:
 
 - ¿Quiénes son los/as autores/as entendidos como responsables intelectuales últimos del podcast/episodio? ¿Está disponible su perfil bio-bibliográfico? ¿Qué competencias específicas tienen en Historia? 
 - ¿Cuáles otros participantes es posible identificar como co-autores de aspectos importantes del podcast, por ejemplo, la investigación previa, la responsabilidad de la parte sonora, la postproducción?
 
-4. Conservación y sostenibilidad 
+#### 4. Conservación y sostenibilidad 
 
 ¿Dónde está archivado el podcast? ¿Cómo se garantiza su permanencia allí y su accesibilidad a futuro?
 
 Esta guía espera servir a orientar quienes, por ejercicio profesional o como tarea académica, tengan que reseñar un podcast de contenido histórico, pero también aspira a mostrar cómo las consolidadas herramientas del oficio de historiador siguen teniendo validez en la actualidad digital. Las preguntas de la Guía son sugerencias que indican caminos de evaluación, pero evidentemente no son las únicas posibles. Sin embargo, establecer un mínimo común denominador de aceptación compartida en los criterios para valorar productos historiográficos digitales es un paso importante en la transición tecno-científica que estamos viviendo en el campo de la Historia. Como evidencian las referencias a seguir, las contribuciones han venido hasta ahora sobre todo desde el mundo anglo-hablante. Un esfuerzo colaborativo en otros idiomas ayudará a la comunidad de historiadores/as a mantener plural la visión de lo que es relevante en este campo.
 
+—Por Stefania Gallini — profesora, Universidad Nacional de Colombia - sede Bogotá
 
 **Referencias**:
 
