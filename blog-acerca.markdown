@@ -51,4 +51,4 @@ El contenido…
 
 - utiliza ejemplos que aclaran el tema (deseable)
 
-En caso de cualquier duda, pueden consultarse los principios editoriales del blog en extenso [(Clic aquí)](./blog-principios). El contacto directo con los editores del blog para poner contenidos en consideración es: Natalia Restrepo: nrestreposaldarriaga/at/gmail.com, Sergio Rodríguez Gómez: ssergiorodriguezz/at/gmail.com, y Liliana Paris Borda: lparisborda/at/gmail.com.
+En caso de cualquier duda, pueden consultarse los principios editoriales del blog en extenso [(Clic aquí)](../blog-principios). El contacto directo con los editores del blog para poner contenidos en consideración es: Natalia Restrepo: nrestreposaldarriaga/at/gmail.com, Sergio Rodríguez Gómez: ssergiorodriguezz/at/gmail.com, y Liliana Paris Borda: lparisborda/at/gmail.com.

@@ -11,6 +11,4 @@ En este momento nos encontramos migrando los contenidos de la plataforma que alo
 
 ## Cómo participar
 
-La información acerca de los tipos de contenidos del blog y cómo participar en él se encuentran [aquí](./blog-acerca)
-
-## Artículos
+La información acerca de los tipos de contenidos del blog y cómo participar en él se encuentran [aquí](../blog-acerca)

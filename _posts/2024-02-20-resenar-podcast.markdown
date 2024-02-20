@@ -25,7 +25,7 @@ La guía que se propone aquí ha sido construida tomando en cuenta las referenci
 
 Para redactar una reseña de un podcast o un episodio, valen estas recomendaciones generales:
 1. No escuchar solo 1 episodio, sino todos, o varios. Señalar en la reseña cuáles son los episodios sobre los cuales está basada.
-2. Citar correctamente: por ejemplo: **Un episodio**: *Autor, “#no.: Título del episodio”, fecha de su publicación online, Título del podcast, producido por Autor, podcast, formato, duración, URL* | **Un podcast entero**: *Autores, Título del podcast, podcast, formato, fecha si la hay, URL*
+2. Citar correctamente: por ejemplo: **Un episodio**: *Autor, “#no.: Título del episodio”, fecha de su publicación online, Título del podcast, producido por Autor, podcast, formato, duración, URL* o **Un podcast entero**: *Autores, Título del podcast, podcast, formato, fecha si la hay, URL*
 3. Contextualizar el podcast en el marco de la historiografía relevante para el contenido del podcast.
 
 ## Tipos
@@ -72,7 +72,7 @@ La autoría es un tema importante a reseñar porque, a diferencia de un libro o 
 - ¿Quiénes son los/as autores/as entendidos como responsables intelectuales últimos del podcast/episodio? ¿Está disponible su perfil bio-bibliográfico? ¿Qué competencias específicas tienen en Historia? 
 - ¿Cuáles otros participantes es posible identificar como co-autores de aspectos importantes del podcast, por ejemplo, la investigación previa, la responsabilidad de la parte sonora, la postproducción?
 
-#### 4. Conservación y sostenibilidad 
+### 4. Conservación y sostenibilidad 
 
 ¿Dónde está archivado el podcast? ¿Cómo se garantiza su permanencia allí y su accesibilidad a futuro?
 
