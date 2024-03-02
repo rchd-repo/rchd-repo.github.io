@@ -10,7 +10,7 @@ order: 2
 
 Para hacer parte de la Red Colombiana de Humanidades Digitales - RCHD, participar de las actividades y poder colaborar solo se deben seguir estos sencillos pasos:
 
-1.  **Llena el formulario**. Puedes encontrarlo [aquí](https://forms.gle/Rcv1QbbXRZg8fgYP9). Nos ayudará a que la red esté cada vez más conectada. Si ya lo llenaste anteriormente, puedes actualizar tus datos entrando al mismo link. Este mismo link puede usarse para inscribirse a la lista de correos sin membresía.
+1.  **Llena el formulario**. Puedes encontrarlo [aquí](https://forms.gle/jksrh8ncfQQ7UgSaA). Nos ayudará a que la red esté cada vez más conectada. Si ya lo llenaste anteriormente, puedes actualizar tus datos entrando al mismo link. Este mismo link puede usarse para inscribirse a la lista de correos sin membresía.
 
 2. **Paga la membresía**. Debes hacer el pago correspondiente a través de transferencia o consignación a la cuenta de **AHORROS** de **BANCOLOMBIA** número **177-000162-85** a nombre de **FUNDACIÓN KARISMA, NIT: 830.118.499**.
 
