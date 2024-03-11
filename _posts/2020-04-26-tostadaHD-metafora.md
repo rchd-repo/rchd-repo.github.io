@@ -1,10 +1,10 @@
 ---
-Layout: Post
-Title: "La #TostadaHD una métafora, un encuentro, una catarsis"
-Date: 2020-04-26 12:00:00 -0500
-Categories: Divulgación
-Tags: ["Post","Video","Análisis"]  
-Author: ["Tata Méndez","Ernesto Priani"] 
+layout: Post
+title: "La #TostadaHD una métafora, un encuentro, una catarsis"
+date: 2020-04-26 12:00:00 -0500
+categories: Divulgación
+tags: ["Post","Video","Análisis"]  
+author: ["Tata Méndez","Ernesto Priani"] 
 ---
 ![Imagen portada](/assets/blog/TOSTADA.png) 
 

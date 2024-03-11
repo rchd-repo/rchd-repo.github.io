@@ -1,10 +1,10 @@
 ---
-Layout: Post
-Title: "Creatividad y apropiación tecnológica en la educación. Una reflexión y una entrevista a la educadora Viviana Garzón"
-Date: 2020-08-07 12:00:00 -0500
-Categories: Entrevistas
-Tags: ["Post","Arte","Análisis","Creagogía","LCreatividad","Educación virtual","Entrevista","Escuelas","Red Colombiana de Humanidades Digitales","Viviana Garzón"]  
-Author: ["Sergio Rodríguez Gómez"]  
+layout: Post
+title: "Creatividad y apropiación tecnológica en la educación. Una reflexión y una entrevista a la educadora Viviana Garzón"
+date: 2020-08-07 12:00:00 -0500
+categories: Entrevistas
+tags: ["Post","Arte","Análisis","Creagogía","LCreatividad","Educación virtual","Entrevista","Escuelas","Red Colombiana de Humanidades Digitales","Viviana Garzón"]  
+author: ["Sergio Rodríguez Gómez"]  
 ---
 ![Imagen portada](/assets/blog/Portada_viviana_garzon.png) 
 

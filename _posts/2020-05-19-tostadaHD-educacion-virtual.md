@@ -1,10 +1,10 @@
 ---
-Layout: Post
-Title: "TostadaHD: educación virtual y cultura"
-Date: 2020-05-19 12:00:00 -0500
-Categories: Análisis
-Tags: ["Post","Análisis","Cultura","e-learning","Educación Virtual"]  
-Author: ["Omar Rincón", "Catalina Hoyos"]  
+layout: Post
+title: "TostadaHD: educación virtual y cultura"
+date: 2020-05-19 12:00:00 -0500
+categories: Análisis
+tags: ["Post","Análisis","Cultura","e-learning","Educación Virtual"]  
+author: ["Omar Rincón", "Catalina Hoyos"]  
 ---
 ![Imagen portada](/assets/blog/TostadaHD3.png) 
 

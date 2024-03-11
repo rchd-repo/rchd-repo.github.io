@@ -1,10 +1,10 @@
 ---
-Layout: Post
-Title: "Glosario HD: Sistemas de gestión del aprendizaje"
-Date: 2020-05-12 12:00:00 -0500
-Categories: Glosario
-Tags: ["Post","Video","Divulgación","Glosario","e-learning"]  
-Author: ["Sergio Rodríguez Gómez"]  
+layout: Post
+title: "Glosario HD: Sistemas de gestión del aprendizaje"
+date: 2020-05-12 12:00:00 -0500
+categories: Glosario
+tags: ["Post","Video","Divulgación","Glosario","e-learning"]  
+author: ["Sergio Rodríguez Gómez"]  
 ---
 ![Imagen portada](/assets/blog/img_SGA_LMS.png) 
 

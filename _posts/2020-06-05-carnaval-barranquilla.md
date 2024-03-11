@@ -1,10 +1,10 @@
 ---
-Layout: Post
-Title: "La paradoja de Teseo. La representación del Carnaval de Barranquilla en Instagram"
-Date: 2020-06-05 12:00:00 -0500
-Categories: Divulgación
-Tags: ["Divulgación","Visualización de datos","Instagram", "Redes Sociales", "Análisis visual", "Carnaval de Barranquilla"]  
-Author: ["Manuel Salge Ferro"]  
+layout: Post
+title: "La paradoja de Teseo. La representación del Carnaval de Barranquilla en Instagram"
+date: 2020-06-05 12:00:00 -0500
+categories: Divulgación
+tags: ["Divulgación","Visualización de datos","Instagram", "Redes Sociales", "Análisis visual", "Carnaval de Barranquilla"]  
+author: ["Manuel Salge Ferro"]  
 ---
 ![Imagen portada](/assets/blog/Portada_Teseo.png) 
 

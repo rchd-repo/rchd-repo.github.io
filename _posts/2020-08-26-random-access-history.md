@@ -1,10 +1,10 @@
 ---
-Layout: Post
-Title: "Random Access History: congresos académicos de ayer y hoy"
-Date: 2020-08-26 12:00:00 -0500
-Categories: Divulgación
-Tags: ["Post","2020","Divulgación","Digital Commons","Digital humanities","Podcast","Random Access History","Virtual"]  
-Author: ["Elvis Rojas","José Nicolás Jaramillo"]  
+layout: Post
+title: "Random Access History: congresos académicos de ayer y hoy"
+date: 2020-08-26 12:00:00 -0500
+categories: Divulgación
+tags: ["Post","2020","Divulgación","Digital Commons","Digital humanities","Podcast","Random Access History","Virtual"]  
+author: ["Elvis Rojas","José Nicolás Jaramillo"]  
 ---
 ![Imagen portada](/assets/blog/PPortada_random_access.png) 
 

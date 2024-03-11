@@ -1,10 +1,10 @@
 ---
-Layout: Post
-Title: "Sobre Humanidad Digital, laboratorio de Humanidades digitales y narrativas experimentales"
-Date: 2020-07-30 12:00:00 -0500
-Categories: Divulgación
-Tags: ["Derechos en Internet","Divulgación","Conectivismo","Laboratorio","Morin","Narrativas experimentales","Riesgos Postpandemia","Siemens"]  
-Author: ["Elder Manuel Tobar","Javier Lara","Luis Antonio Silva","Nathalia Roa","Sandra Barrera"]  
+layout: Post
+title: "Sobre Humanidad Digital, laboratorio de Humanidades digitales y narrativas experimentales"
+date: 2020-07-30 12:00:00 -0500
+categories: Divulgación
+tags: ["Derechos en Internet","Divulgación","Conectivismo","Laboratorio","Morin","Narrativas experimentales","Riesgos Postpandemia","Siemens"]  
+author: ["Elder Manuel Tobar","Javier Lara","Luis Antonio Silva","Nathalia Roa","Sandra Barrera"]  
 ---
 ![Imagen portada](/assets/blog/portada_humanidad_digital.png) 
 

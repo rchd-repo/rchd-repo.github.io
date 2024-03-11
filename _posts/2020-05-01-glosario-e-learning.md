@@ -1,10 +1,10 @@
 ---
-Layout: Post
-Title: "Glosario HD: e-learning"
-Date: 2020-05-01 12:00:00 -0500
-Categories: Glosario
-Tags: ["Post","Video","Divulgación","Glosario","e-learning"]  
-Author: ["María José Afanador-Llach"]  
+layout: Post
+title: "Glosario HD: e-learning"
+date: 2020-05-01 12:00:00 -0500
+categories: Glosario
+tags: ["Post","Video","Divulgación","Glosario","e-learning"]  
+author: ["María José Afanador-Llach"]  
 ---
 ![Imagen portada](/assets/blog/img_elearning.png) 
 
