@@ -1,0 +1,37 @@
+---
+Layout: Post
+Title: "Sobre Humanidad Digital, laboratorio de Humanidades digitales y narrativas experimentales"
+Date: 2020-07-30 12:00:00 -0500
+Categories: Divulgación
+Tags: ["Derechos en Internet","Divulgación","Conectivismo","Laboratorio","Morin","Narrativas experimentales","Riesgos Postpandemia","Siemens"]  
+Author: ["Elder Manuel Tobar","Javier Lara","Luis Antonio Silva","Nathalia Roa","Sandra Barrera"]  
+---
+![Imagen portada](/assets/blog/portada_humanidad_digital.png) 
+
+**Humanidad Digital no es un oxímoron**
+
+Desde hace décadas el mundo viene desarrollándose en un proceso de digitalización cada vez más acelerado, que toca todos los ámbitos de la sociedad: la producción académica, artística y cultural, las comunicaciones, las relaciones sociales, la política, la economía, el entretenimiento, el desarrollo científico, el tecnológico y la educación. La velocidad a la que se mueven los cambios detonados por el lanzamiento constante de nuevos dispositivos y “apps”, y las dinámicas que estos generan es muy exigente, en cuanto a que requiere por parte de los usuarios el desarrollo constante de habilidades y competencias que les permitan su manejo, no sólo desde el aspecto técnico, sino también desde su impacto en cada uno de los ámbitos mencionados. Esta exigencia puede llevar a que muchas personas se enfoquen en la inmediatez de las necesidades operativas, más que en los impactos a mediano y largo plazo de tanta novedad, desde la perspectiva del [pensamiento complejo propuesto por Morin](https://www.youtube.com/watch?v=NDe0yx1SCWoU), en el que se entiende el mundo como un tejido en el que los hilos se entrelazan para darle forma, es decir, la realidad está construida por la relación entre múltiples factores que no operan de manera aislada.
+
+Se tiende a pensar la tecnología digital desde extremos, que la ven como la solución a todos los problemas o la satanizan culpándola de todos los males existentes y por venir. Por fuera de los círculos académicos no es común encontrar personas que la cuestionen desde su experiencia personal (como sus hábitos de consumo de artefactos y contenidos digitales, así como el impacto que causan en la naturaleza y en la cultura). Es entonces necesario promover un análisis crítico que permita identificar sus pros y sus contras, de manera que seamos todos, desde el conocimiento, el cuestionamiento y la reflexión, quienes demos forma a una realidad a partir de lo digital, que sea lo mejor posible para todos. Es evidente la necesidad de aproximarnos al entramado de la tecnósfera, la biosfera y la cultura desde una perspectiva integradora y una intención de sostenibilidad.
+
+A partir de esta premisa nace [Humanidad Digital](https://humanidad.digital/), un laboratorio de Humanidades Digitales y narrativas experimentales conformado por un grupo interdisciplinar, que trabaja bajo el concepto de investigación-creación y la exploración de distintos formatos, métodos y lenguajes propios del universo digital. Nos interesa tender puentes entre la producción de conocimiento académico de distintos campos, y que este conocimiento, a su vez, llegue a más personas externas a la academia. Los diálogos que podemos entablar entre la diversidad de saberes, dinámicas y públicos enriquecen la construcción colectiva de conocimiento y hacen aportes a la transformación de la sociedad actual a una más incluyente, en donde la producción y la gestión del conocimiento se lleva a cabo a partir redes horizontales que conectan individuos, organizaciones y datos, entre otros, tal como señala [Siemens en su teoría del conectivismo](https://www.youtube.com/watch?v=V3LUFOjR17M).
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/V3LUFOjR17M?si=w-oB149WPBHCSp1i" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+Con [Riesgos postpandemia: la vulneración de los derechos en Internet](https://humanidad.digital/riesgos-postpandemia/), iniciamos una serie de publicaciones de historias hipotéticas, donde se mezclan la realidad y la ficción en función de la reflexión necesaria en estos momentos de crisis, cuando debemos prestar atención a las consecuencias que pueden traer las soluciones digitales a situaciones que involucran muchas variables, como lo es el control de una pandemia. Con esta narración ponemos sobre la mesa la manera como la tecnología digital proporciona herramientas útiles para solucionar problemas inmediatos, pero a riesgo de abrir la puerta a dinámicas asociadas a abusos de poder, vulneración de derechos y corrupción. Los problemas de carácter global que enfrentamos hoy en día requieren de soluciones contextualizadas de acuerdo a las particularidades propias de cada región y cultura. Teniendo eso en cuenta, nuestra propuesta experimental de narrativas futuras post pandemia sobre derechos digitales está situada en el contexto colombiano y su exotismo institucional.
+
+Los invitamos a navegar por nuestra propuesta en el siguiente link: [http://humanidad.digital/riesgos-postpandemia/](http://humanidad.digital/riesgos-postpandemia/)
+
+![Imagen portadahumanidad digital](/assets/blog/Imagen_2_humanidad_digital.png) 
+
+**En este proyecto participamos:**
+
+[Luis Antonio Silva](http://luisantonio.co/). Artista en nuevos medios y Magíster en Humanidades Digitales de la Universidad de los Andes. Interesado en la comunicación y divulgación de proyectos artísticos y culturales, tiene experiencia en producción de contenidos para plataformas digitales y mediación de proyectos artísticos. Coordina la Oficina de Comunicaciones de la Facultad de Artes y Humanidades de la Universidad de los Andes.
+
+-**Sandra Barrera.** Maestra en Arte y Magíster en Humanidades Digitales de la Universidad de los Andes, cuenta con amplia experiencia en educación, gestión cultural, producción artística, e investigación en la escuela con grupos de estudiantes y profesores. Tiene especial interés en el  arte contemporáneo y su papel en el campo de la educación, la relación arte-ciencia-tecnología y el papel de la tecnología digital en procesos investigativos y pedagógicos.
+
+-**Elder Manuel Tobar.** Productor audiovisual, comunicador social y periodista, Maestría en Humanidades Digitales de la Universidad de los Andes. Se ha especializado en creación y dirección de proyectos que involucran narrativas digitales multiplataforma e inmersivas. Creador y director en distintos medios como cómics interactivos, maquetas, libros con realidad aumentada, videojuegos y tecnologías inmersivas. 
+
+-**Nathalia Roa.** Profesional en estudios literarios y candidata a Magíster en Humanidades Digitales de la Universidad de los Andes. Ha trabajado en el ámbito de la docencia y en la divulgación de literatura infantil. Su campo de investigación se centra en la escritura creativa para niños y las narrativas digitales.
+
+-**Javier Jara.** Diseñador con énfasis en comunicación y candidato a Magíster en Humanidades Digitales de la Universidad de los Andes. Interesado en la cultura visual, la animación, las interfaces y los entornos digitales para la creación de narrativas. Experiencia en diseño para la comunicación en proyectos artísticos y culturales, dirección de arte, narrativas e identidad visual, ilustración y diseño de información. Diseñador en la oficina de comunicaciones de la Facultad de Artes y Humanidades de la Universidad de los Andes desde el 2016.
