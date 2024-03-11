@@ -6,7 +6,7 @@ categories: Divulgación
 tags: ["Post","2020","Divulgación","Digital Commons","Digital humanities","Podcast","Random Access History","Virtual"]  
 author: ["Elvis Rojas","José Nicolás Jaramillo"]  
 ---
-![Imagen portada](/assets/blog/PPortada_random_access.png) 
+![Imagen portada](/assets/blog/Portada_random_access.png) 
 
 Nuestros amigos del podcast *Random Access History* (@podcastRAH) hicieron un episodio especial —en colaboración con la Red— en el que conversan acerca de sus impresiones y sus participaciones en congresos académicos, también hablan acerca de la conferencia 2020 de la Alianza de Organizaciones en Humanidades Digitales, y nos cuentan acerca de algunas presentaciones destacadas en la conferencia. Además, como es tradición en su podcast, nos dejan algunos *datos random*. No se lo pierdan.
 

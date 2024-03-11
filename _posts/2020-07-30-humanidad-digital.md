@@ -26,7 +26,7 @@ Los invitamos a navegar por nuestra propuesta en el siguiente link: [http://huma
 
 **En este proyecto participamos:**
 
-[Luis Antonio Silva](http://luisantonio.co/). Artista en nuevos medios y Magíster en Humanidades Digitales de la Universidad de los Andes. Interesado en la comunicación y divulgación de proyectos artísticos y culturales, tiene experiencia en producción de contenidos para plataformas digitales y mediación de proyectos artísticos. Coordina la Oficina de Comunicaciones de la Facultad de Artes y Humanidades de la Universidad de los Andes.
+-[Luis Antonio Silva](http://luisantonio.co/). Artista en nuevos medios y Magíster en Humanidades Digitales de la Universidad de los Andes. Interesado en la comunicación y divulgación de proyectos artísticos y culturales, tiene experiencia en producción de contenidos para plataformas digitales y mediación de proyectos artísticos. Coordina la Oficina de Comunicaciones de la Facultad de Artes y Humanidades de la Universidad de los Andes.
 
 -**Sandra Barrera.** Maestra en Arte y Magíster en Humanidades Digitales de la Universidad de los Andes, cuenta con amplia experiencia en educación, gestión cultural, producción artística, e investigación en la escuela con grupos de estudiantes y profesores. Tiene especial interés en el  arte contemporáneo y su papel en el campo de la educación, la relación arte-ciencia-tecnología y el papel de la tecnología digital en procesos investigativos y pedagógicos.
 
