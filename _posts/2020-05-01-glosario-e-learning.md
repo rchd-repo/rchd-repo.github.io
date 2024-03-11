@@ -1,5 +1,5 @@
 ---
-layout: Post
+layout: post
 title: "Glosario HD: e-learning"
 date: 2020-05-01 12:00:00 -0500
 categories: Glosario

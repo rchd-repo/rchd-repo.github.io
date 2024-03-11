@@ -1,5 +1,5 @@
 ---
-layout: Post
+layout: post
 title: "Creatividad y apropiación tecnológica en la educación. Una reflexión y una entrevista a la educadora Viviana Garzón"
 date: 2020-08-07 12:00:00 -0500
 categories: Entrevistas

@@ -1,5 +1,5 @@
 ---
-layout: Post
+layout: post
 title: "La paradoja de Teseo. La representación del Carnaval de Barranquilla en Instagram"
 date: 2020-06-05 12:00:00 -0500
 categories: Divulgación

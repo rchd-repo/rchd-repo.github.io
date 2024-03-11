@@ -1,5 +1,5 @@
 ---
-layout: Post
+layout: post
 title: "Sobre Humanidad Digital, laboratorio de Humanidades digitales y narrativas experimentales"
 date: 2020-07-30 12:00:00 -0500
 categories: Divulgación

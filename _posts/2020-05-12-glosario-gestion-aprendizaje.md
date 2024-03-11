@@ -1,5 +1,5 @@
 ---
-layout: Post
+layout: post
 title: "Glosario HD: Sistemas de gestión del aprendizaje"
 date: 2020-05-12 12:00:00 -0500
 categories: Glosario

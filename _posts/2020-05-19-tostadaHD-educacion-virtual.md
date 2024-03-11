@@ -1,5 +1,5 @@
 ---
-layout: Post
+layout: post
 title: "TostadaHD: educación virtual y cultura"
 date: 2020-05-19 12:00:00 -0500
 categories: Análisis

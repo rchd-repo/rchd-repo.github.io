@@ -1,5 +1,5 @@
 ---
-layout: Post
+layout: post
 title: "Random Access History: congresos académicos de ayer y hoy"
 date: 2020-08-26 12:00:00 -0500
 categories: Divulgación
