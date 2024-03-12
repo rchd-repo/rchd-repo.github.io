@@ -9,7 +9,6 @@
       {% assign sorted_pages = site.pages | sort:"order" %}
       {% for my_page in sorted_pages %}
         {% if my_page.title %}
-
           {% unless my_page.hide %}
             <li class="inline-block">
               <a class="align-middle link-primary mr-2 mr-lg-0 ml-lg-2" href="{{ my_page.url | prepend: site.baseurl }}">
@@ -17,15 +16,14 @@
               </a>
             </li>
           {% endunless %}
-
-          <li class="inline-block">
-            <a class="align-middle link-primary mr-2 mr-lg-0 ml-lg-2" target="" href="https://semanahd.cuaieed.unam.mx/">
-              Semana HD
-            </a>
-          </li>
-
         {% endif %}
       {% endfor %}
+
+      <li class="inline-block">
+        <a class="align-middle link-primary mr-2 mr-lg-0 ml-lg-2" target="" href="https://semanahd.cuaieed.unam.mx/">
+          Semana HD
+        </a>
+      </li>
     </ul>
   </div>
 </header>
