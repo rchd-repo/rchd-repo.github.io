@@ -6,7 +6,7 @@ categories: Reseñas
 tags: ["Reseñas","Cultura Digital","Humanidades Digitales","Entrevista","Arte Digital"]  
 author: ["Luis García Bendezú","Elder Manuel Tobar"]  
 ---
-![Imagen portada](/assets/blog/Portada_ElderManuel.jpg) 
+![Imagen portada](/assets/blog/Portada_ElderManuel.JPG)
 
 *Entrevista al director de Códice Futuro, un proyecto que ensambla fantasía, cosmología ancestral y narración transmedia para imaginar uno o más destinos alternativos. La instalación puede ser visitada hasta el 31 de marzo en la sala E de la Cinemateca de Bogotá*.
 
