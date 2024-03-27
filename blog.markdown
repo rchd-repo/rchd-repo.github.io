@@ -5,9 +5,8 @@ permalink: /blog/
 order: 7
 ---
 
-# Cultura y Bits
-
-En este momento nos encontramos migrando los contenidos de la plataforma que alojaba nuestro blog antes a este sitio web, con el fin de centralizar todas las actividades de la red. Por lo pronto, la versión anterior del blog se puede consultar [aquí](https://redcolhdblog.wordpress.com/).
+![Logo Blog](/assets/blog/logo-blog.png)
+### Blog de la Red Colombiana de Humanidades Digitales
 
 ## Cómo participar
 
