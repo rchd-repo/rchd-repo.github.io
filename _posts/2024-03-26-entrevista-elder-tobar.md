@@ -1,10 +1,10 @@
 ---
-Layout: Post
-Title: "“Nuestros datos digitales son utilizados con una falta de imaginación feroz”: Elder Manuel Tobar"
-Date: 2024-03-26 12:00:00 -0500
-Categories: Reseñas
-Tags: ["Reseñas","Cultura Digital","Humanidades Digitales","Entrevista","Arte Digital"]  
-Author: ["Luis García Bendezú"]  
+layout: Post
+title: "“Nuestros datos digitales son utilizados con una falta de imaginación feroz”: Elder Manuel Tobar"
+date: 2024-03-26 12:00:00 -0500
+categories: Reseñas
+tags: ["Reseñas","Cultura Digital","Humanidades Digitales","Entrevista","Arte Digital"]  
+author: ["Luis García Bendezú","Elder Manuel Tobar"]  
 ---
 ![Imagen portada](/assets/blog/Portada_ElderManuel.JPG) 
 
@@ -38,7 +38,7 @@ LG: **Como narrador y realizador audiovisual, ¿por qué cree que hay tanto inte
 
 ET: Las distopías nos encantan, creo yo, como método de prevención. Nos gusta asustarnos para saber qué es lo que pasará. Es como un freno, es como decir “esto está peligroso, mejor no voy por ahí”. Creo también que hoy se ha generado una mirada un poco lastimera sobre el futuro. Y respecto a los multiversos lo que veo es que se nos ha quitado el derecho a imaginar. Se nos plantea [a través de las industrias culturales] superhéroes que son estructuras casi paramilitares que en un rol de paternidad instauran una salvación. Cambiamos al mesías religioso por un tecnohéroe que pone orden. Creo que tenemos el derecho de reclamar o imaginar otros futuros.
 
-![Germán Rodríguez](/assets/blog/FotoGermánRamírez.JPG)
+![Germán Rodríguez](/assets/blog/FotoGermánRamírez.jpg)
 
 LG: **Códice Futuro declara en créditos a un equipo amplio y multidisciplinar de artistas, programadores e investigadores. Hay ilustradores como Luis Carlos Barragán y artistas del papel como Sabrina Rodríguez. ¿Cómo fue ensamblar esas diferentes miradas?**
 
