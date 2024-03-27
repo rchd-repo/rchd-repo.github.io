@@ -6,7 +6,7 @@ categories: Reseñas
 tags: ["Reseñas","Cultura Digital","Humanidades Digitales","Entrevista","Arte Digital"]  
 author: ["Luis García Bendezú","Elder Manuel Tobar"]  
 ---
-![Imagen portada](/assets/blog/Portada_ElderManuel.JPG) 
+![Imagen portada](/assets/blog/Portada_ElderManuel.jpg) 
 
 *Entrevista al director de Códice Futuro, un proyecto que ensambla fantasía, cosmología ancestral y narración transmedia para imaginar uno o más destinos alternativos. La instalación puede ser visitada hasta el 31 de marzo en la sala E de la Cinemateca de Bogotá*.
 
@@ -38,7 +38,7 @@ LG: **Como narrador y realizador audiovisual, ¿por qué cree que hay tanto inte
 
 ET: Las distopías nos encantan, creo yo, como método de prevención. Nos gusta asustarnos para saber qué es lo que pasará. Es como un freno, es como decir “esto está peligroso, mejor no voy por ahí”. Creo también que hoy se ha generado una mirada un poco lastimera sobre el futuro. Y respecto a los multiversos lo que veo es que se nos ha quitado el derecho a imaginar. Se nos plantea [a través de las industrias culturales] superhéroes que son estructuras casi paramilitares que en un rol de paternidad instauran una salvación. Cambiamos al mesías religioso por un tecnohéroe que pone orden. Creo que tenemos el derecho de reclamar o imaginar otros futuros.
 
-![Germán Rodríguez](/assets/blog/FotoGermánRamírez.jpg)
+![Germán Ramírez](/assets/blog/FotoGermanRamirez.jpg)
 
 LG: **Códice Futuro declara en créditos a un equipo amplio y multidisciplinar de artistas, programadores e investigadores. Hay ilustradores como Luis Carlos Barragán y artistas del papel como Sabrina Rodríguez. ¿Cómo fue ensamblar esas diferentes miradas?**
 
