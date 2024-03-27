@@ -2,7 +2,7 @@
 layout: post
 title: "Alteridades, otras computaciones y arqueología de medios: una entrevista a Andrés Burbano — Parte 2"
 date: 2021-12-22 12:00:00 -0500
-categories: Divulgación
+categories: Entrevistas
 tags: ["arqueología de medios", "software studies", "sur global"]
 author: ["REDCOLHD"]
 ---

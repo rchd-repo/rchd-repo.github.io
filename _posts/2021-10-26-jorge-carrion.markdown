@@ -2,7 +2,7 @@
 layout: post
 title: "La dialéctica entre lo clásico y lo viral, una entrevista a Jorge Carrión"
 date: 2021-10-26 12:00:00 -0500
-categories: Divulgación
+categories: Entrevistas
 tags: ["cultura digital", "covid", "librerías", "transmedia", "ocvi"]
 author: ["REDCOLHD"]
 ---
