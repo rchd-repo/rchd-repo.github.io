@@ -6,8 +6,8 @@
     <div id="main-content"></div>
   </div>
   <script>
-    const url = 'https://docs.google.com/spreadsheets/d/1Yy0WYbG1gt2-mVzfKN4pNSIuOAPLWLGLn6fO1j5Pe1c/export?format=csv&gid=0';
-    const columns = ['Nombre','Perfil','Email'];
+    const url = 'https://docs.google.com/spreadsheets/d/1B5szN4U6swO4sCR1GOlpSaia_ykd5OCmzSvSHsXwrOw/export?format=csv&gid=0';
+    const columns = ['Nombre','Perfil','Afiliación','Email'];
 
     async function setup() {
       noCanvas();
@@ -18,7 +18,7 @@
     async function loadCSV(path) {
       let data = await d3.csv(path)
         .then(d => d)
-      data = data.filter(d => d['Autorización'] === 'S');
+      // data = data.filter(d => d['Autorización'] === 'S');
       data = data.sort((a, b) => d3.ascending(a['Nombre'], b['Nombre']));
       return data
     }
@@ -29,7 +29,6 @@
       
       const directoryTable = createElement('table').class('directory-table').parent(block);
       createHeader(directoryTable);
-      
       
       for (let d of data) {
         createRow(d, directoryTable);
