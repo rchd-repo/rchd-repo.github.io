@@ -1,7 +1,7 @@
 ---
 layout: Post
 title: "La Inteligencia Artificial Generativa y su impacto en las humanidades: una convergencia que la educación en Colombia debería aprovechar."
-date: 2024-04-206 12:00:00 -0500
+date: 2024-04-20 12:00:00 -0500
 categories: Divulgación
 tags: ["Post","2024","Divulgación","Inteligencia Artificial Generativa","Humanidades Digitales","Inteligencia Artificial"]  
 author: ["Jairo Alberto Galindo C."]  
