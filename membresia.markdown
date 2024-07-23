@@ -5,7 +5,7 @@ permalink: /membresias/
 order: 2
 ---
 
-¡Estamos en renovación de membresías e inscripción de nuevos miembros! Quienes se inscriban ahora serán miembros activos hasta noviembre 30 de 2024, que será el nuevo corte de renovación.
+¡Estamos en renovación de membresías e inscripción de nuevos miembros! Quienes se inscriban ahora serán miembros activos hasta junio 30 de 2025, que será el nuevo corte de renovación.
 {: .announcement}
 
 Para hacer parte de la Red Colombiana de Humanidades Digitales - RCHD, participar de las actividades y poder colaborar solo se deben seguir estos sencillos pasos:
@@ -19,3 +19,5 @@ Para hacer parte de la Red Colombiana de Humanidades Digitales - RCHD, participa
     Estudiantes de posgrado, profesores y particulares: COP$60.000.
 
 3. **Certifica tu pago**. Envíanos un correo a **redcolhd@gmail.com** con el certificado de pago, consignación o transferencia para que sepamos que ya pagaste, para este corte, tu membresía estará vigente hasta noviembre 30 de 2024.
+
+**Si necesitas un certificado de membresía escribe un correo con la solicitud al correo: redcolhd@gmail.com**.
