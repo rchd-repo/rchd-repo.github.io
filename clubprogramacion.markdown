@@ -16,6 +16,20 @@ Todos los miembros activos de la Red Colombiana de Humanidades digitales pueden 
 
 <div class="two-col">
   <div>
+    <h3>Patching - Código y sonido</h3>
+    <span>2024-1</span>
+    <img alt="muestra colisiones" src="/assets/imgs/club-prog-2024-1.png"/>
+  </div>
+  <div>
+    <span>Charla sobre la muestra:</span>
+    <iframe width="500" height="315" src="https://www.youtube.com/watch?v=952iUV9YkyE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen> </iframe>
+  </div>
+</div>
+
+---
+
+<div class="two-col">
+  <div>
     <h3>Colisiones: jugando en 8bits</h3>
     <span>2022-2</span>
     <img alt="muestra colisiones" src="/assets/imgs/club-prog-2022-2.png"/>
