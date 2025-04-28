@@ -2,7 +2,7 @@
 layout: post
 title: "“Nuestros datos digitales son utilizados con una falta de imaginación feroz”: Elder Manuel Tobar"
 date: 2024-03-26 12:00:00 -0500
-categories: Reseñas
+categories: Entrevistas
 tags: ["Reseñas","Cultura Digital","Humanidades Digitales","Entrevista","Arte Digital"]  
 author: ["Luis García Bendezú","Elder Manuel Tobar"]  
 ---
