@@ -2,7 +2,7 @@
 layout: post
 title: "La cibernética en América Latina, una historia entrecortada: entrevista a David Maulén de los Reyes"
 date: 2025-04-28 12:00:00 -0500
-categories: Divulgación
+categories: Entrevistas
 tags: ["Cibernética","América Latina","Ciencia, tecnología y sociedad","Entrevista","Cybersyn"]   
 author: ["Luis García Bendezú","Elder Manuel Tobar"]
 ---
