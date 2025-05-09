@@ -5,7 +5,7 @@ permalink: /membresias/
 order: 2
 ---
 
-¡Estamos en renovación de membresías e inscripción de nuevos miembros! Quienes se inscriban ahora serán miembros activos hasta junio 30 de 2025, que será el nuevo corte de renovación.
+Hazte miembro de la Red para participar en la [Maratón HD 2025](https://rchd.com.co/maraton/) como ponente, tallerista o nodo.
 {: .announcement}
 
 Para hacer parte de la Red Colombiana de Humanidades Digitales - RCHD, participar de las actividades y poder colaborar solo se deben seguir estos sencillos pasos:
@@ -14,9 +14,9 @@ Para hacer parte de la Red Colombiana de Humanidades Digitales - RCHD, participa
 
 2. **Paga la membresía**. Debes hacer el pago correspondiente a través de transferencia o consignación a la cuenta de **AHORROS** de **BANCOLOMBIA** número **177-000162-85** a nombre de **FUNDACIÓN KARISMA, NIT: 830.118.499**.
 
-    Estudiantes de pregrado con carné vigente: COP$30.000.
+- Estudiantes de pregrado con carné vigente: COP$40.000.
 
-    Estudiantes de posgrado, profesores y particulares: COP$60.000.
+- Estudiantes de posgrado, profesores y particulares: COP$70.000.
 
 3. **Certifica tu pago**. Envíanos un correo a **redcolhd@gmail.com** con el certificado de pago, consignación o transferencia para que sepamos que ya pagaste, para este corte, tu membresía estará vigente hasta noviembre 30 de 2024.
 
