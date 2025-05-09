@@ -9,11 +9,13 @@ La Maratón es un evento en el que personas y agrupaciones que desarrollan proye
 
 ## Maratón HD - 2025
 
-Este año, la Maratón HD será un evento híbrido que se llevará a cabo los días 18 y 19 de septiembre. Su sede principal será la Universidad EAFIT en Medellín y tendrá varias subsedes aportadas por las demás instituciones organizadoras: la Universidad de Antioquia y su exploratorio de Humanidades Digitales, la Universidad Pedagógica Nacional, la Universidad de los Andes y su Maestría en Humanidades Digitales, y el Banco de la República.
+Este año, la Maratón HD será un evento híbrido que se llevará a cabo los días 18 y 19 de septiembre. Su sede principal será la Universidad EAFIT en Medellín y tendrá varias instituciones aliadas: la Universidad de Antioquia y su exploratorio de Humanidades Digitales, la Universidad Pedagógica Nacional, la Universidad de los Andes y su Maestría en Humanidades Digitales, y el Banco de la República.
 
 <a href="https://rchd.com.co/assets/maraton/CFP_MaratonHD_2025.pdf">Aquí</a> puedes consultar el documento general del evento, que contiene de las líneas de trabajo, la organización del evento, el calendario y otra información relevante en detalle.
 
 <a href="https://forms.gle/uJmg7avpxqAnSJyD6">Aquí</a> puedes ingresar al formulario de inscripción.
+
+![maratón 2023](/assets/maraton/MaratonHD2025.png)
 
 ## Ediciones pasadas
 
