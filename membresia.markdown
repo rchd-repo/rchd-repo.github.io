@@ -18,6 +18,6 @@ Para hacer parte de la Red Colombiana de Humanidades Digitales - RCHD, participa
 
 - Estudiantes de posgrado, profesores y particulares: COP$70.000.
 
-3. **Certifica tu pago**. Envíanos un correo a **redcolhd@gmail.com** con el certificado de pago, consignación o transferencia para que sepamos que ya pagaste, para este corte, tu membresía estará vigente hasta noviembre 30 de 2024.
+3. **Certifica tu pago**. Envíanos un correo a **redcolhd@gmail.com** con el certificado de pago, consignación o transferencia para que sepamos que ya pagaste, para este corte, tu membresía estará vigente hasta junio 30 de 2026.
 
 **Si necesitas un certificado de membresía escribe un correo con la solicitud al correo: redcolhd@gmail.com**.
