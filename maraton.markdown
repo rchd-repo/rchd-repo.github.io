@@ -15,7 +15,7 @@ Este año, la Maratón HD será un evento híbrido que se llevará a cabo los d�
 
 <a href="https://forms.gle/uJmg7avpxqAnSJyD6">Aquí</a> puedes ingresar al formulario de inscripción.
 
-![maratón 2023](/assets/maraton/MaratonHD2025.png)
+![maratón 2023](/assets/maraton/MaratonHD2025_ampliacion.png)
 
 ## Ediciones pasadas
 
