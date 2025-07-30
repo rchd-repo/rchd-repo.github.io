@@ -15,7 +15,8 @@ Este año, la Maratón HD será un evento híbrido que se llevará a cabo los d�
 
 ### Propuestas elegidas para la maratón 2025
 
-En <a href="https://rchd.com.co/assets\maraton\AceptadosMaraton2025.pdf" target="_blank" >este enlace</a> puedes consultar la lista de propuestas elegidas para la Maratón 2025. Si eres una de las personas elegidas, confirma tu asistencia <a href="https://docs.google.com/forms/d/e/1FAIpQLSeezRUWeZCpq4Ob9QnhiSGAIq2UyG1POa3PHP0vsKhJMIeOig/viewform" target="_blank" >aquí</a> antes del 8 de agosto. Recuerda que es necesario tener una membresía activa a la Red para participar. Las instrucciones de membresía se encuentran [aquí](https://rchd.com.co/membresía/).{: .announcement}
+En <a href="https://rchd.com.co/assets\maraton\AceptadosMaraton2025.pdf" target="_blank" >este enlace</a> puedes consultar la lista de propuestas elegidas para la Maratón 2025. Si eres una de las personas elegidas, confirma tu asistencia <a href="https://docs.google.com/forms/d/e/1FAIpQLSeezRUWeZCpq4Ob9QnhiSGAIq2UyG1POa3PHP0vsKhJMIeOig/viewform" target="_blank" >aquí</a> antes del 8 de agosto. Recuerda que es necesario tener una membresía activa a la Red para participar. Las instrucciones de membresía se encuentran [aquí](https://rchd.com.co/membresias/).
+{: .announcement}
 
 ## Ediciones pasadas
 
