@@ -15,10 +15,8 @@ Este año, la Maratón HD será un evento híbrido que se llevará a cabo los d�
 
 <object class="pdf-container" title="cv" data="https://rchd.com.co/assets/maraton/MaratonHD2025_Programacion_Final.pdf" type="application/pdf" width="100%" height="700px"></object>
 
-Los ajustes al programa y los enlaces de conexión a los talleres se pueden consultar en el siguiente enlace: <a href="https://docs.google.com/spreadsheets/d/15tRt6nQc04KoIxJ3-CM7bnMs3HGPKRAsQnnotApWfec/edit?usp=sharing" target="_blank">programación final</a>
-
 <div class="button-container">
-  <a download target="_blank" rel="noreferrer" href="https://rchd.com.co/assets/maraton/MaratonHD2025_Programacion.pdf"><button class="default-button big-button">Descargar programación aquí</button></a>
+  <a download target="_blank" rel="noreferrer" href="https://rchd.com.co/assets/maraton/MaratonHD2025_Programacion_Final.pdf"><button class="default-button big-button">Descargar programación aquí</button></a>
 </div>
 
 ### Indicaciones para asistentes presenciales
